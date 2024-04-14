@@ -1,0 +1,38 @@
+body {
+  /* background: url(./assets/for\ le\ site.jpg) center/cover;
+  min-height: 100vh; */
+  background: white;
+}
+
+.boxInfo {
+  background: rgba(253, 254, 255, 0.74);
+  margin-left: 30%;
+}
+
+.box-date {
+  background: rgba(248, 245, 245, 0.938);
+  margin-right: 30%;
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0.952);
+}
+
+p {
+  color: black;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+}
+
+.photo {
+  background: url(./assets/loupe.png);
+}
+.baxinf1 {
+  background-color: black;
+}
+img {
+  width: 100%;
+  max-height: 200px;
+}
